@@ -2,6 +2,8 @@
 
 Simple port of every Numix Circle icon to a .icns file for use with OSX.
 
+Check out https://github.com/numixproject/numix-icon-theme-circle for the original icons!
+
 # Using an icon
 
 1. Naviagte to ./icons in finder
